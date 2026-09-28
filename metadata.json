@@ -1,0 +1,6 @@
+{
+  "name": "PCX Studio & QBasic Code Generator",
+  "description": "Convert images to 1-bit, 2-bit, 4-bit, 8-bit, and 24-bit PCX files with retro dithering, PCX header breakdown, and ready-to-run QBasic saver and loader code samples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
